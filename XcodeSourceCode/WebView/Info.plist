@@ -130,9 +130,7 @@
 	<key>Pushwoosh_LAZY_INITIALIZATION</key>
 	<true/>
 	<key>UIBackgroundModes</key>
-	<array>
-		<string>remote-notification</string>
-	</array>
+	<array/>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIMainStoryboardFile</key>
