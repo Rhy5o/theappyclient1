@@ -83,7 +83,7 @@
 	<key>NSHumanReadableCopyright</key>
 	<string></string>
 	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
-	<string>Processing your current location data in order to display your current location during background usage</string>
+	<string>Processing your current location data in order to find your address</string>
 	<key>NSLocationAlwaysUsageDescription</key>
 	<string>Processing your location data for displaying your current location</string>
 	<key>NSLocationWhenInUseUsageDescription</key>
@@ -112,7 +112,7 @@
 			<key>NSPrivacyAccessedAPICategory</key>
 			<string>NSPrivacyAccessedAPICategoryDiskSpace</string>
 			<key>NSPrivacyUsageDescription</key>
-			<string>We check disk space availability to prevent data loss and ensure the app can safely download and store essential data without compromising the device's performance.</string>
+			<string>We check disk space availability to prevent data loss and ensure the app can safely download and store essential data without compromising the device&apos;s performance.</string>
 		</dict>
 		<dict>
 			<key>NSPrivacyAccessedAPICategory</key>
